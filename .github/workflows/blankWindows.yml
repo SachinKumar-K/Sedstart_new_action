@@ -15,7 +15,7 @@ jobs:
         with:
           api_key: ${{ secrets.SEDSTART_API_KEY_QA }}
           project_id: 503
-          test_id: 3450
+          test_id: 3449
           browser: chrome
           headless: false
           environment: 'QA'
